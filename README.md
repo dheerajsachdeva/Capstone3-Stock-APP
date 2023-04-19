@@ -86,7 +86,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://bookstore-1y16.onrender.com/)
+- [Live Demo Link](https://stock-946q.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,17 +98,17 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: HTML and CSS
+In order to run this project you need: React and Redux
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-git clone git@github.com:dheerajsachdeva/bookstore.git
+git clone git@github.com:dheerajsachdeva/Capstone3-Stock-APP.git
 
 ### Install
 
-Install this project with: by cloning git@github.com:dheerajsachdeva/bookstore.git
+Install this project with: by cloning git@github.com:dheerajsachdeva/Capstone3-Stock-APP.git
 
 ### Usage
 
@@ -120,7 +120,7 @@ To run tests, run the following command: npm run test
 
 ## Deployment
 
-You can deploy this project using: git@github.com:dheerajsachdeva/bookstore.git
+You can deploy this project using: git@github.com:dheerajsachdeva/Capstone3-Stock-APP.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,8 +143,8 @@ You can deploy this project using: git@github.com:dheerajsachdeva/bookstore.git
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[Will use Redux toolkit]**
-- [ ] **[Web Responsiveness]**
+- [ ] **[Will add more stocks]**
+- [ ] **[More Animations]**
 - [ ] **[ES6 modules]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -155,7 +155,7 @@ You can deploy this project using: git@github.com:dheerajsachdeva/bookstore.git
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/dheerajsachdeva/to-do-list]
+Feel free to check the [https://github.com/dheerajsachdeva/Capstone3-Stock-APP]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,7 +171,7 @@ If you like this project please follow me on github
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and all my coding partners.
+I would like to thank Microverse and  Nelson Sakwa for providing Designs
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,9 +181,9 @@ I would like to thank Microverse and all my coding partners.
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[What is BookStore?]**
+- **[What is Stock APP?]**
 
-  - [In this project, we are adding and deleting books, using React and Redux toolkit]
+  - [In this project, we are fetching stock data from API, using React and Redux toolkit]
 
 - **[What programming languages used in this project?]**
 
